@@ -1,0 +1,9 @@
+﻿  TM.C
+c:\users\11043\desktop\编译原理实验资料\tiny vs2005\tm\tm.c(357): error C2198: “gets_s”: 用于调用的参数太少
+c:\users\11043\desktop\编译原理实验资料\tiny vs2005\tm\tm.c(410): error C2198: “gets_s”: 用于调用的参数太少
+c:\users\11043\desktop\编译原理实验资料\tiny vs2005\tm\tm.c(565): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+c:\users\11043\desktop\编译原理实验资料\tiny vs2005\tm\tm.c(567): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\11043\desktop\编译原理实验资料\tiny vs2005\tm\tm.c(568): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
